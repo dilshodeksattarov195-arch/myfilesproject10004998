@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscave",
+        "uuid": 43957410,
+        "checksum": "32m0c"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
